@@ -3,3 +3,21 @@
 // @import "dashboard";
 // @import "profile";
 // @import "map";
+.mainbox {
+  width: 500px;
+  margin: 10px auto;
+  background-color: #E2E2E2;
+  padding: 25px;
+  border-radius: 5px;
+  box-shadow: 2px 3px 5px #888888;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: #1C0F13;
+}
+
